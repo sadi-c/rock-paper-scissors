@@ -1,3 +1,5 @@
+
+# importing required random module
 import random
 print("The Rules of Rock paper scissor game will be follows: \n"
 +"Rock vs paper --> paper wins \n"
@@ -59,4 +61,4 @@ else:
 if ans == 'n' or ans == 'N':
    break
    # after exiting from the while loop
-print("\nThanks for playing, I hope you enjoyed it!...")
+print("\n I hope you had fun, see you next time!..")
