@@ -59,4 +59,4 @@ else:
 if ans == 'n' or ans == 'N':
    break
    # after exiting from the while loop
-print("\nThanks for sharing time with us...")
+print("\nThanks for playing, I hope you enjoyed it!...")
